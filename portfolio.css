@@ -1,21 +1,45 @@
 body {	background-color: #FFFFFF;
     color: #000000;
+    margin:0px;
+}
+main {
+    margin:0px;
 }
 
-h1 {	background-color: #FFFFFF;
+h1 {   background-color: #FFFFFF;
     color: #000000;
     text-shadow: 3px 3px 4px #000000;
+    text-align: center;
 }
 
-nav a {   text-decoration: none;
+.navBar a { color: white;  
+    text-decoration: none;
+    padding:15px;
+    display:block;
+    
+}
+.navBar a:hover{
+    background-color: hsl(0, 0%, 10%);
 }
 
-h1 name{    background-color: #FFFFFF;
+.navBar ul{ 
+    list-style: none;
+    background-color: gray;
+    padding:0px;
+    margin:0px;
+    display:flex;
+    justify-content:center;
+    overflow: hidden;
+}
+
+h1 name{ 
+    background-color: #FFFFFF;
     color: #ff00aa;
     font-weight: bold;
     font-style: italic;
+    padding:0px;
+    margin:0px;
 }
-
 h2 {	background-color: #a3c359;
     color: #000000;
     font-weight: bold;

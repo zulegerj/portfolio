@@ -1,0 +1,23 @@
+body {	background-color: #FFFFFF;
+    color: #000000;
+}
+
+h1 {	background-color: #FFFFFF;
+    color: #000000;
+    text-shadow: 3px 3px 4px #000000;
+}
+
+nav a {   text-decoration: none;
+}
+
+h1 name{	background-color: #FFFFFF;
+    color: #ff00aa;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {	background-color: #a3c359;
+    color: #000000;
+    font-weight: bold;
+    text-align:left;
+}

@@ -14,6 +14,7 @@ h1 name{	background-color: #FFFFFF;
     color: #ff00aa;
     font-weight: bold;
     font-style: italic;
+        text-align: center;
 }
 
 h2 {	background-color: #a3c359;

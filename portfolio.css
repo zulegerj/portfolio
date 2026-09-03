@@ -10,7 +10,8 @@ h1 {	background-color: #FFFFFF;
 nav a {   text-decoration: none;
 }
 
-h1 name{	background-color: #FFFFFF;
+h1 name{	display:block;
+    background-color: #FFFFFF;
     color: #ff00aa;
     font-weight: bold;
     font-style: italic;
